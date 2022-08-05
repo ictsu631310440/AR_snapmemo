@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Shirt" size="20.000000 20.000000" />
+    <ImageTarget name="SnapS" size="10.000000 4.909091" />
+    <ImageTarget name="firework" size="10.000000 18.406977" />
+    <ImageTarget name="Sky" size="10.000000 6.405335" />
+    <ImageTarget name="camp" size="10.000000 11.706546" />
+    <ImageTarget name="Butterfly" size="10.000000 10.134486" />
+    <ImageTarget name="M_04" size="20.000000 20.000000" />
+    <ImageTarget name="M_03" size="20.000000 20.000000" />
+  </Tracking>
+</QCARConfig>
