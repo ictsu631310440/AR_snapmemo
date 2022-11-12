@@ -1,0 +1,30 @@
+{ "cat":"", "pid":"bee_backend", "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":"bee_backend", "tid":0, "ts":1653269868672889, "dur":59421, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269868732311, "dur":2905, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269868735651, "dur":1048, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269868736704, "dur":12, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269868736716, "dur":251, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874713702, "dur":244, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714192, "dur":7, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714370, "dur":29, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714541, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714625, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714713, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714800, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874714881, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874715834, "dur":4, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874715861, "dur":1892, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":"bee_backend", "tid":1, "ts":1653269868737045, "dur":5976849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":2, "ts":1653269868737030, "dur":5976880, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":3, "ts":1653269868737033, "dur":5976797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":4, "ts":1653269868737040, "dur":5976946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":5, "ts":1653269868737044, "dur":5976923, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":6, "ts":1653269868737053, "dur":5976884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":7, "ts":1653269868737050, "dur":5976818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":8, "ts":1653269868737030, "dur":7281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"IL2CPP_CodeGen /Users/thanakrit/Desktop/myAR/K_SnapMemo/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_lb8u.traceevents" }}
+,{ "pid":"bee_backend", "tid":8, "ts":1653269868790130, "dur":5915748, "ph":"X", "name": "IL2CPP_CodeGen",  "args": { "detail":"/Users/thanakrit/Desktop/myAR/K_SnapMemo/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_lb8u.traceevents" }}
+,{ "pid":"bee_backend", "tid":8, "ts":1653269874713652, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"FinalProgram" }}
+,{ "pid":"bee_backend", "tid":8, "ts":1653269874713670, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":8, "ts":1653269874713680, "dur":108, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":"bee_backend", "tid":0, "ts":1653269874720508, "dur":186, "ph":"X", "name": "ProfilerWriteOutput" }
+,
